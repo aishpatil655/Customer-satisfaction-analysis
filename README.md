@@ -83,7 +83,7 @@ The analysis is presented in the Power BI dashboard (saved as a `.pbix` file in 
 ## **How to Use This Repository**
 
 1. Clone or download this repository to access the Power BI `.pbix` file.
-2. Open the `.pbix` file using **Power BI Desktop**.
+2. Open the `Customer satisfaction analysis.pbix` file using **Power BI Desktop**.
 3. Explore the dashboard and interact with the visualizations to uncover further insights.
 4. Review the `README.md` file for an understanding of the analysis and insights.
 
